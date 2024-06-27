@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+NZ:wght@100..400&display=swap');
+
+* {font-family: "Playwrite NZ", cursive;}
+
+a{
+    text-decoration: none;
+    color: cornflowerblue !important;
+    font-weight: 500;
+}
+
+a:hover{
+    color: blueviolet !important;
+    text-decoration: none;
+}
+
+ul{list-style-type: none;}
+
+hr{
+    margin-top: 0px;
+    margin-bottom: 5%;
+}
+
+#MainMenu {visibility: hidden;}
+footer{visibility: hidden;}
+header{visibility: hidden;}
