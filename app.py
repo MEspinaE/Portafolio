@@ -22,7 +22,7 @@ social_media = {
 }
 
 proyectos={
-    "asdf": "www.google.cl",
+    "asdf": "asdasdasd",
     "aaa":"www.nasa.com",
     "eee":"www.youtube.com",
 }
